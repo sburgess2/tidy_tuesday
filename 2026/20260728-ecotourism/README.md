@@ -1,4 +1,4 @@
-# Ecotourisn in Australia
+# Ecotourism in Australia
 
 ## Description
 
